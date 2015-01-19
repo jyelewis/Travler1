@@ -1,0 +1,6 @@
+tVoice
+Travl Voice
+tvoice.jyesapps.travlr
+virtualrep/travlvoice/icon.png
+This application is a voice systhasizer (i know that I spelt that wrong) and will use the "say" command on mac os x to say anything that is typed into the box - a security hole in this app is that it would be possible to include a && after the text and perform any command on the seever<br>using this will only "say" the text on the server that is running the hosted travlr but it would be possible to write to a audio file and send the audio file over the web - this could be a good idea for a plugin.
+virtualrep/travlvoice/installer.php
